@@ -7,7 +7,10 @@
 		{
 			"Name": "SO5_Testing_Grounds",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"AIModule"
+			]
 		}
 	]
 }
