@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "BehaviorTree/BTTaskNode.h"
-#include "ChooseNextWaypoint_CPP.generated.h"
+#include "ChooseNextWaypoint.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class SO5_TESTING_GROUNDS_API UChooseNextWaypoint_CPP : public UBTTaskNode
+class SO5_TESTING_GROUNDS_API UChooseNextWaypoint : public UBTTaskNode
 {
 	GENERATED_BODY()
 	
